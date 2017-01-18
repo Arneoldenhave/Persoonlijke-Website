@@ -1,0 +1,28 @@
+/** { 
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+*/
+#welcomePhoto {
+	height: 30%;
+	width: 30%;
+	position: relative;
+	top: 25px;
+	position: center;
+	border-radius: 50%;
+
+}
+
+.first-slide {
+	filter: brightness(50%);
+}
+.second-slide {
+	filter: brightness(65%); 
+
+
+}
+.third-slide {
+	filter: brightness(80%)
+}
+#contactArne {
+	font-size: 300%
+}
